@@ -1,0 +1,39 @@
+@charset "utf-8";
+body{
+	background-color: #05161E;
+}
+
+.table{
+	background-color: #0E2E3D;
+	border-radius: 10px;
+	position:relative;
+}
+
+.button-game{
+	background-color: #6D1929;
+	width:100%;
+}
+
+.button-set{
+	background-color: black;
+	opacity: 0.5;
+	width:100%;
+}
+
+hr{
+	color: white;
+background-color: white;
+height: 0.5 px;
+}
+
+.select{
+	background-color: black;
+	opacity: 0.5;
+	border: none;
+}
+
+.tt{
+	background-color: black;
+	border:none;
+	    opacity: 0.5;
+}
