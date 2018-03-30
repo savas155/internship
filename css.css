@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+body{
+	background-color: #05161E;
+}
+
+.table{
+ background-image: url("pingpong.png");
+    background-repeat: space;
+	background-color: #0E2E3D;
+	border-radius: 15px;
+}
+
+#main_table{
+	background-color: #0E2E3D;
+	border-radius: 15px;
+}
+
+
+.padding{
+	display: inline-block;
+	width: 32%;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-bottom: 10px;
+}
+
+.button-game{
+	background-color: #6D1929;
+	width:100%;
+	margin: 0 auto;
+}
+
+.button-set{
+	background-color: black;
+	opacity: 0.5;
+	width:90%;
+	margin: 0 auto;
+}
+
+hr{
+	color: white;
+background-color: white;
+height: 0.5 px;
+width: 100%;
+
+}
+
+.select{
+	background-color: black;
+	opacity: 0.5;
+	border: none;
+}
+
+.tt{
+	background-color: black;
+	border:none;
+	    opacity: 0.5;
+}
+
+#list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
