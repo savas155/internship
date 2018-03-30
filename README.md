@@ -9,6 +9,7 @@ I have chosen to create an application using Bootstrap v4, jQuery, CSS3 and HTML
 Please feel free to contact me if you have any questions about my choices.
 
 I am going to continue my work on this project because of following purposes:
+- Once all functions will be working, need to make the whole website full responsive for all devices.
 - Need to study about CSS pre/post-processors and apply them.
 - Need to study about task runners.
 
